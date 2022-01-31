@@ -31,6 +31,12 @@
 ## SUPPORT GROUP
    - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/NAAN_1_KANNADIGA) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
-# CREDITS
-   
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/MR_PROFESSOR_AGORA)
+# 𝗦𝗨𝗣𝗣𝗢𝗥𝗧𝗘𝗥𝗦
+
+[𝗔𝗠𝗠𝗨 𝗚𝗢𝗪𝗗𝗔](https://t.me/parama_sundari)
+[𝗦𝗔𝗡𝗞𝗜 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦](https://t.me/sanki_fighters01)
+[𝗗𝗛𝗥𝗨𝗩𝗔](https://t.me/pogaruhuduga)
+[𝗥𝗢𝗖𝗞𝗦𝗧𝗔𝗥](https://t.me/The_king_is_backkk)
+[𝗦𝗔𝗖𝗛𝗜𝗡 𝗔𝗡𝗡𝗔](https://t.me/geleya)
+[𝗦𝗪𝗔𝗚 𝗤𝗨𝗘𝗘𝗡](https://t.me/swag_queenn)
+[𝗔𝗥𝗨𝗡 𝗚𝗢𝗪𝗗𝗔](https://t.me/The_name_is_unique_wepoN)
