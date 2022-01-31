@@ -1027,11 +1027,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
         if len(e.text) > 5:
             bio = str(yukki[0])
-            text = "Changing Bio"
+            text = "ತಾಳು ಮಚ್ಚಾ ಬಯೋ ಚೇಂಜ್ ಮಾಡ್ತಿದೀನಿ"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("STATUS CHANGED SUCESSFULLY")
+                await event.edit("ಆತ್ ನೋಡ್ ಪ ಅವನಿಂದ ಬಯೋ ಬಯೋ ಅನತಿದ್ದಿ")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1075,7 +1075,7 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = "RUKK BC ARAH HU..."
+            text = "hd..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
