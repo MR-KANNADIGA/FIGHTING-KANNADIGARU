@@ -1,13 +1,13 @@
-# 𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥𝗦
+# 𝗙𝗜𝗚𝗛𝗧𝗜𝗡𝗚 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔𝗥𝗨
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 𝟯𝟬 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥](t.me/Professor_agora)
+## [𝙆𝘼𝙉𝙉𝘼𝘿𝙄𝙂𝘼](t.me/mr_Professor_agora)
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a7667fd76685907f87b31.jpg">
+  <img src="https://te.legra.ph/file/7e88c346219e5e70dbddf.jpg">
 </p>
 
 
@@ -16,7 +16,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
 
-# 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥
+# 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗙𝗜𝗚𝗛𝗧𝗜𝗡𝗚 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔𝗥𝗨
 
    - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟹𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
 
@@ -29,8 +29,8 @@
 
 
 ## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/AGORA_SPAM_OFFICIAL) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+   - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/NAAN_1_KANNADIGA) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
-## Credits
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/agora_professor)
+# CREDITS
+   
+   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/MR_PROFESSOR_AGORA)
