@@ -4,7 +4,7 @@
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝙆𝘼𝙉𝙉𝘼𝘿𝙄𝙂𝘼](t.me/mr_Professor_agora)
+## [𝙆𝘼𝙉𝙉𝘼𝘿𝙄𝙂𝘼](https://t.me/mr_Professor_agora)
 
 <p align="center">
   <img src="https://te.legra.ph/file/7e88c346219e5e70dbddf.jpg">
