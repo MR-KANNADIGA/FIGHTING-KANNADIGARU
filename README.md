@@ -14,7 +14,7 @@
 
 ## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AGORA-OS/FIGHTING-KANNADIGARU)
 
 # 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗙𝗜𝗚𝗛𝗧𝗜𝗡𝗚 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔𝗥𝗨
 
