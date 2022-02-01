@@ -1075,11 +1075,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = "hd..."
+            text = "ತಾಳು ಮಚ್ಚಾ ಸೇರಿ ಆಗ್ತೀನಿ..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("HA BHAI AB BOL KISKA FAADNA HAI")
+                await event.edit("ಈವಾಗ್ ಹೇಳು ಮಾಮು ಯಾರ್ ತಿಕ ಹೊಡಿಬೇಕು")
             except Exception as e:
                 await event.edit(str(e))   
         else:
