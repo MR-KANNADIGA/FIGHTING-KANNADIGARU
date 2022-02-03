@@ -40,3 +40,4 @@
 [𝗦𝗔𝗖𝗛𝗜𝗡 𝗔𝗡𝗡𝗔](https://t.me/geleya) ♛︎
 [𝗦𝗪𝗔𝗚 𝗤𝗨𝗘𝗘𝗡](https://t.me/swag_queenn) ♛︎
 [𝗔𝗥𝗨𝗡 𝗚𝗢𝗪𝗗𝗔](https://t.me/The_name_is_unique_wepoN) ♛︎
+[𝗦𝗢𝗡𝗔𝗠𝗠𝗔](https://t.me/Sonuvidya)
