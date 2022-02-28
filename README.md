@@ -4,7 +4,7 @@
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝙆𝘼𝙉𝙉𝘼𝘿𝙄𝙂𝘼](https://t.me/mr_Professor_agora)
+## [𝙆𝘼𝙉𝙉𝘼𝘿𝙄𝙂𝘼](https://t.me/mr_stonedLegend)
 
 <p align="center">
   <img src="https://te.legra.ph/file/7e88c346219e5e70dbddf.jpg">
@@ -14,7 +14,7 @@
 
 ## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AGORA-OP/FIGHTING-KANNADIGARU)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-KANNADIGA/FIGHTING-KANNADIGARU)
 
 # 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗙𝗜𝗚𝗛𝗧𝗜𝗡𝗚 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔𝗥𝗨
 
